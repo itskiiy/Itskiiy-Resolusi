@@ -1,0 +1,2 @@
+Itskiiy resolusi 2025
+ - bisa OOP pada python
