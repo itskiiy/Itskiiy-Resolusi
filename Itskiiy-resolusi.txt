@@ -1,3 +1,4 @@
 Itskiiy resolusi 2025
  - Bisa OOP pada python
  - Bisa dan mahir dengan git dan github 
+ - Membuat website dengan python
